@@ -1,0 +1,12 @@
+C:\Users\aksha\source\repos\keylogger\keylogger\obj\Debug\keylogger.vbprojAssemblyReference.cache
+C:\Users\aksha\source\repos\keylogger\keylogger\obj\Debug\keylogger.Form1.resources
+C:\Users\aksha\source\repos\keylogger\keylogger\obj\Debug\keylogger.Resources.resources
+C:\Users\aksha\source\repos\keylogger\keylogger\obj\Debug\keylogger.vbproj.GenerateResource.cache
+C:\Users\aksha\source\repos\keylogger\keylogger\obj\Debug\keylogger.vbproj.CoreCompileInputs.cache
+C:\Users\aksha\source\repos\keylogger\keylogger\bin\Debug\keylogger.exe.config
+C:\Users\aksha\source\repos\keylogger\keylogger\bin\Debug\keylogger.exe
+C:\Users\aksha\source\repos\keylogger\keylogger\bin\Debug\keylogger.pdb
+C:\Users\aksha\source\repos\keylogger\keylogger\bin\Debug\keylogger.xml
+C:\Users\aksha\source\repos\keylogger\keylogger\obj\Debug\keylogger.exe
+C:\Users\aksha\source\repos\keylogger\keylogger\obj\Debug\keylogger.xml
+C:\Users\aksha\source\repos\keylogger\keylogger\obj\Debug\keylogger.pdb
